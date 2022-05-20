@@ -1,0 +1,15 @@
+.square{
+    border: 1px solid #000;
+    height: 80px;
+    width: 80px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.X{
+    color: red;
+}
+
+.O{
+    color: green; 
+}
